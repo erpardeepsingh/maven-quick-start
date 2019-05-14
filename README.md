@@ -1,0 +1,2 @@
+# maven-quick-start
+SAMPLE PROJECT TO DEMONSTRATE USE OF MAVEN
